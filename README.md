@@ -1,6 +1,7 @@
 # python-challenge
 
 Background
+
 In this assignment, students are expected to use the concepts they've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where their newly developed Python scripting skills come in handy.
 
 Challenge - One
